@@ -1,0 +1,24 @@
+{
+  "name": "twit_streaming",
+  "version": "1.0.0",
+  "description": "twit bot with streaming api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stream"
+  ],
+  "author": "rui",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "dotenv": "^2.0.0",
+    "mongodb": "^2.2.12",
+    "mongoose": "^4.7.1",
+    "twitter": "^1.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
